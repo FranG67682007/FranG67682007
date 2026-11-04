@@ -1,10 +1,10 @@
-- 👋 Oii tudo bem? Me chamo Francisco e tenho 19 anos.
-- 👀 Eu estou interessado atualmente em aprender programação, melhorar meu fisico, me tornar uma pessoa melhor e aprender mais todo dia
-- 🌱 Estou atualmente lendo livros de comédia, investimentos e a biblia
-- 💞️ Estou atualmente solteiro
-- 📫 Meus contatos: instagram: @franchesco__virgulinii, telefone (19)99403-2478
-- 😄 Pronomes: ele/dele - hetero
-- ⚡ Fatos interressantes: sempre gostei muito da área de tecnologia, vídeogames e carros
+- 👋 Olá tudo bem? Me chamo Francisco e tenho 19 anos.
+- 👀 Eu estou interessado atualmente em continuar meu aprendizado na programação, melhorar meu físico, me tornar uma pessoa melhor e aprender constantemente.
+- 🌱 Estou atualmente lendo livros de autoajuda como Hábitos Atômicos, investimentos como O Homem Mais Rico da Babilônia e a Biblia
+- 💞️ Atualmente solteiro
+- 📫 Contatos: instagram: @franchesco__virgulinii, telefone (19)99403-2478
+- 😄 Pronomes: ele/dele - hétero
+- ⚡ Fatos interressantes: sempre gostei muito da área de tecnologia, vídeogames, carros e automobilismo.
 - 🖥️ Atualmente 1 projeto na conta ✨
 
 <!---
